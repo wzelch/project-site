@@ -23,8 +23,8 @@ email: wdz@unc.edu
 description: A project to analyze the effectiveness of pre-recorded lectures in education.
 baseurl: "/project-site" # the subpath of your site, e.g. /blog
 url: "wzelch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: wilsonzelch
+github_username:  wzelch
 
 # Build settings
 # Build settings
